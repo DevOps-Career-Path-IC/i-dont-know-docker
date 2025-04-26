@@ -43,4 +43,4 @@ In the docker-compose.yml three services have been introduced with the dependenc
 
 - **Web**: Single page application built using Vuetify.js and Vuex.
 - **API**: REST API developed using Flask and Flask-SQLAlchemy.
-- **DB**: MySQL Database version 8.0.25.
+- **DB**: MySQL Database version 8.0.25
